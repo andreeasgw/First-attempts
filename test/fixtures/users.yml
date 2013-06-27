@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  userid: 1
+  groupid: 1
+  username: MyString
+  email: MyString
+  dateadd: 2013-06-26 08:46:39
+
+two:
+  userid: 1
+  groupid: 1
+  username: MyString
+  email: MyString
+  dateadd: 2013-06-26 08:46:39

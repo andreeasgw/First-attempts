@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  tweetid: 1
+  tweetmsg: MyString
+  groupid: 1
+  status: 1
+  userid: 1
+  dateadd: 2013-06-26 02:29:21
+
+two:
+  tweetid: 1
+  tweetmsg: MyString
+  groupid: 1
+  status: 1
+  userid: 1
+  dateadd: 2013-06-26 02:29:21
